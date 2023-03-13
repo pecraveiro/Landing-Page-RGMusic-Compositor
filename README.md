@@ -71,13 +71,6 @@ If you want to support my learning, making it possible to carry other projects, 
   ```
 </details>
 
-<details>
-  <summary>Ethereum Address</summary>
-    
-  ```
-  0x76E8b1257BedD02bC38E476F296123fCecEA83E4
-  ```
-</details>
 
 <details>
   <summary>Bitcoin Address</summary>
