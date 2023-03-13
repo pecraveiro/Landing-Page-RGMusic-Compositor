@@ -2,8 +2,8 @@
 
 ## 🔍 Índice
 - [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
-- [Guia completo](#-guia-completo)
+- [Tecnologias](#-tecnologias)
+- [Projeto](#-Projeto)
 
 <div align="center">
   
@@ -23,7 +23,7 @@ O projeto **Landing Page Random Guy Music Compositor** é uma aplicação básic
 
 ---
 
-## 📑 Tenologias utilizadas
+## 📑 Tenologias
 
 - Plataforma Nuvemshop;
 - HTML;
@@ -35,24 +35,24 @@ Para visualizar o site, basta clicar na sessão ao lado direito, em "Github-page
 
 ---
 
-## 📑 Um pouco mais sobre o projeto
+## 📑 Projeto
 
 A Landing Page apresenta uma breve descrição sobre um produtor musical X e sua carreira, incluindo informações relevantes, como experiência, prêmios e reconhecimento em sua área de atuação.
 
-# Instrumentos
+### Instrumentos
 No segundo Bloco, apresenta os principais instrumentos que o produtor musical utiliza em suas produções, com informações e especificações técnicas para cada um. Isso pode incluir imagens, vídeos e descrições detalhadas e até mesmo alguns exemplos de trabalhos produzidos com esses instrumentos.
 
-# Clientes
+### Clientes
 Este bloco apresenta alguns dos principais clientes que já contrataram os serviços do produtor musical, incluindo depoimentos, avaliações e resultados alcançados. Isso ajuda a aumentar a credibilidade do produtor musical e a destacar suas habilidades para potenciais clientes.
 
-# Produção Musical
+### Produção Musical
 Este bloco apresenta algumas das produções do músico, onde o usuário pode selecionar suas músicas.
 
-# Contato
+### Contato
 Este bloco apresenta as informações de contato do produtor musical, incluindo redes sociais. Isso permite que potenciais clientes entrem em contato de forma fácil e rápida, aumentando as chances de fechar novos negócios.
 
 
-# Conclusão
+### Conclusão
 Esta Landing Page é uma excelente forma de promover os serviços de um produtor musical e destacar suas habilidades e experiência na área de produção musical. Com um design atraente, conteúdo relevante e informações claras e objetivas, é possível conquistar novos clientes e aumentar a visibilidade do trabalho oferecido.
 
 <p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐</p>
