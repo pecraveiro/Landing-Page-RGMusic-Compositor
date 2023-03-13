@@ -43,16 +43,16 @@ A Landing Page apresenta uma breve descrição sobre um produtor musical X e sua
 No segundo Bloco, apresenta os principais instrumentos que o produtor musical utiliza em suas produções, com informações e especificações técnicas para cada um. Isso pode incluir imagens, vídeos e descrições detalhadas e até mesmo alguns exemplos de trabalhos produzidos com esses instrumentos.
 
 ### Clientes
-Este bloco apresenta alguns dos principais clientes que já contrataram os serviços do produtor musical, incluindo depoimentos, avaliações e resultados alcançados. Isso ajuda a aumentar a credibilidade do produtor musical e a destacar suas habilidades para potenciais clientes.
+Este bloco apresenta alguns dos principais clientes que já contrataram os serviços do produtor musical, vídeos e uma breve descrição. Ajudando a aumentar a credibilidade do produtor musical e a destacar suas habilidades para potenciais clientes.
 
 ### Produção Musical
-Este bloco apresenta algumas das produções do músico, onde o usuário pode selecionar suas músicas.
+Este bloco apresenta algumas das produções do músico, onde o usuário pode escutar músicas selecionadas pelo desenvolvedor por meio do player.
 
 ### Contato
 Este bloco apresenta as informações de contato do produtor musical, incluindo redes sociais. Isso permite que potenciais clientes entrem em contato de forma fácil e rápida, aumentando as chances de fechar novos negócios.
 
 
 ### Conclusão
-Esta Landing Page é uma excelente forma de promover os serviços de um produtor musical e destacar suas habilidades e experiência na área de produção musical. Com um design atraente, conteúdo relevante e informações claras e objetivas, é possível conquistar novos clientes e aumentar a visibilidade do trabalho oferecido.
+Esta Landing Page é uma excelente forma de promover os serviços de um produtor musical e destacar suas habilidades e experiência na área. Com um design atraente, conteúdo relevante e informações claras e objetivas, é possível conquistar novos clientes e aumentar a visibilidade do trabalho oferecido.
 
 <p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐</p>
