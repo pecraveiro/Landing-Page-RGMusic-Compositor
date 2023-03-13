@@ -19,11 +19,11 @@
 
 ## 📑 Sobre
 
-O projeto **Landing Page Random Guy Music Compositor** é uma aplicação básica que realiza uma contagem regressiva com base na data que o usuário coloca. Ademais, o projeto foi programado por **mim** - que sou estudante na Universidade Federal de Santa Catarina -, baseado em um guia no Youtube.
+O projeto **Landing Page Random Guy Music Compositor** é um layout para um website com o nicho em Produtores Musicias. Além disso, os mesmos poderão divulgar seus trabalhos e utilizar o design para divulgar seus trabalhos e transmitir mais credibilidade para os seus clientes. 
 
 ---
 
-## 📑 Tenologias
+## 📑 Tecnologias
 
 - Plataforma Nuvemshop;
 - HTML;
