@@ -14,9 +14,6 @@
 </div>
 
 
-## 🔍 Índice
-- [Sobre](#-sobre)
-- [Tecnologias utilizadas](#-tecnologias-utilizadas)
 
 ---
 
@@ -35,6 +32,7 @@ O projeto **Landing Page Random Guy Music Compositor** é uma aplicação básic
 - Github-pages;
 
 Para visualizar o site, basta clicar na sessão ao lado direito, em "Github-pages" em Enviroments.
+
 ---
 
 ## 📑 Um pouco mais sobre o projeto
@@ -48,7 +46,7 @@ No segundo Bloco, apresenta os principais instrumentos que o produtor musical ut
 Este bloco apresenta alguns dos principais clientes que já contrataram os serviços do produtor musical, incluindo depoimentos, avaliações e resultados alcançados. Isso ajuda a aumentar a credibilidade do produtor musical e a destacar suas habilidades para potenciais clientes.
 
 # Produção Musical
-Este bloco apresenta informações detalhadas sobre o processo de produção musical do produtor, incluindo o equipamento utilizado, a metodologia empregada e os principais serviços oferecidos. Isso ajuda a esclarecer dúvidas que possam surgir e a destacar a qualidade do trabalho oferecido.
+Este bloco apresenta algumas das produções do músico, onde o usuário pode selecionar suas músicas.
 
 # Contato
 Este bloco apresenta as informações de contato do produtor musical, incluindo redes sociais. Isso permite que potenciais clientes entrem em contato de forma fácil e rápida, aumentando as chances de fechar novos negócios.
