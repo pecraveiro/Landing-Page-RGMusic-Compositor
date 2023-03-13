@@ -19,7 +19,7 @@
 
 ## 📑 Sobre
 
-O projeto **Landing Page Random Guy Music Compositor** é um layout para um website com o nicho em Produtores Musicias. Além disso, os mesmos poderão divulgar seus trabalhos e utilizar o design para divulgar seus trabalhos e transmitir mais credibilidade para os seus clientes. 
+O projeto **Landing Page Random Guy Music Compositor** é um layout para um website com o nicho em Produtores Musicias. Além disso, onde os mesmos poderão divulgar seus trabalhos e utilizar o design como uma página de entrada ou portfólio transmitindo mais credibilidade para seus clientes. 
 
 ---
 
