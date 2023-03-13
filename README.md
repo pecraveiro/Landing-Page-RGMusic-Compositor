@@ -55,4 +55,44 @@ Este bloco apresenta as informações de contato do produtor musical, incluindo 
 ### Conclusão
 Esta Landing Page é uma excelente forma de promover os serviços de um produtor musical e destacar suas habilidades e experiência na área. Com um design atraente, conteúdo relevante e informações claras e objetivas, é possível conquistar novos clientes e aumentar a visibilidade do trabalho oferecido.
 
+## 💰 Doação:
+
+Caso você deseja apoiar o meu aprendizado, tornando possível a realização de novos projetos, além de contribuir com o meu portfólio e currículo, sinta-se livre para doar. As doações não são obrigatórias e serão utilizadas apenas para incrementar meu aprendizado. ❤️ 
+
+If you want to support my learning, making it possible to carry other projects, in addition to contributing with my portfolio and curriculum, please feel free to donate. Donations are not required and will only be used to improve my learning. I will be very much appreciated. ❤️ 
+
+<p align="center">You can directly donate to my Paypal, Bitcoin Addres, Ethereum Address or Pix if you are BR.</p>
+
+<details>
+  <summary>Paypal</summary>
+    
+  ```
+  https://www.paypal.com/donate/?hosted_button_id=GU7G48HXEEXXE
+  ```
+</details>
+
+<details>
+  <summary>Ethereum Address</summary>
+    
+  ```
+  0x76E8b1257BedD02bC38E476F296123fCecEA83E4
+  ```
+</details>
+
+<details>
+  <summary>Bitcoin Address</summary>
+    
+  ```
+  14jRUvJEEQsdg9TSQ7gH5FJJGjt3aBc3yh
+  ```
+</details>
+
+<details>
+  <summary>Pix :brazil:</summary>
+    
+  ```
+  da938ec7-d485-418b-8dcc-8a2fc11f9531
+  ```
+</details>
+
 <p align="center">Desenvolvido por <a href ="https://www.linkedin.com/in/pecraveiro/">Pedro Craveiro</a> 🌐</p>
