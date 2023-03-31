@@ -25,7 +25,7 @@ O projeto **Landing Page Random Guy Music Compositor** é um layout para um webs
 
 ## 📑 Tecnologias
 
-- Plataforma Nuvemshop;
+- Plataforma Nicepage;
 - HTML;
 - CSS;
 - JavaScript;
