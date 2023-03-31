@@ -32,7 +32,7 @@ O projeto **Landing Page Random Guy Music Compositor** é um layout para um webs
 - JavaScript;
 - Github-pages;
 
-Para visualizar o site, basta clicar na sessão ao lado direito, em "Github-pages" em Enviroments.
+Para visualizar o site, basta clicar na sessão ao lado direito, em "Github-pages" em Enviroments ou <a href ="https://pecraveiro.github.io/Landing-Page-RGMusic-Compositor/">aqui.</a>.
 
 ---
 
